@@ -1,5 +1,4 @@
-Feature: 
-Open the google home page 
+Feature: Open the google home page 
 Check the home page related all functionalities
  
  Background:
